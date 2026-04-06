@@ -1,0 +1,9 @@
+Ticker: AAPL
+Sequence Length: 60
+Epochs: 50
+Train samples: 944
+Test samples: 192
+Final Train Loss (MSE): 0.000747
+Final Test Loss (MSE): 0.002090
+RMSE: 7.5953
+MAE: 6.3227

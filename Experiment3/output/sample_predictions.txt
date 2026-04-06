@@ -1,0 +1,42 @@
+Final Test Accuracy: 0.8747
+
+--- Sample 1 ---
+Text: I love sci-fi and am willing to put up with a lot. Sci-fi movies/TV are usually underfunded, under-appreciated and misunderstood. I tried to like this, I really did, but it is to good TV sci-fi as Bab...
+True: negative  |  Predicted: negative
+
+--- Sample 2 ---
+Text: Worth the entertainment value of a rental, especially if you like action movies. This one features the usual car chases, fights with the great Van Damme kick style, shooting battles with the 40 shell ...
+True: negative  |  Predicted: negative
+
+--- Sample 3 ---
+Text: its a totally average film with a few semi-alright action sequences that make the plot seem a little better and remind the viewer of the classic van dam films. parts of the plot don't make sense and s...
+True: negative  |  Predicted: negative
+
+--- Sample 4 ---
+Text: STAR RATING: ***** Saturday Night **** Friday Night *** Friday Morning ** Sunday Night * Monday Morning <br /><br />Former New Orleans homicide cop Jack Robideaux (Jean Claude Van Damme) is re-assigne...
+True: negative  |  Predicted: negative
+
+--- Sample 5 ---
+Text: First off let me say, If you haven't enjoyed a Van Damme movie since bloodsport, you probably will not like this movie. Most of these movies may not have the best plots or best actors but I enjoy thes...
+True: negative  |  Predicted: negative
+
+--- Sample 6 ---
+Text: I had high hopes for this one until they changed the name to 'The Shepherd : Border Patrol, the lamest movie name ever, what was wrong with just 'The Shepherd'. This is a by the numbers action flick t...
+True: negative  |  Predicted: negative
+
+--- Sample 7 ---
+Text: Isaac Florentine has made some of the best western Martial Arts action movies ever produced. In particular US Seals 2, Cold Harvest, Special Forces and Undisputed 2 are all action classics. You can te...
+True: negative  |  Predicted: negative
+
+--- Sample 8 ---
+Text: It actually pains me to say it, but this movie was horrible on every level. The blame does not lie entirely with Van Damme as you can see he tried his best, but let's face it, he's almost fifty, how m...
+True: negative  |  Predicted: negative
+
+--- Sample 9 ---
+Text: Technically I'am a Van Damme Fan, or I was. this movie is so bad that I hated myself for wasting those 90 minutes. Do not let the name Isaac Florentine (Undisputed II) fool you, I had big hopes for th...
+True: negative  |  Predicted: negative
+
+--- Sample 10 ---
+Text: Honestly awful film, bad editing, awful lighting, dire dialog and scrappy screenplay.<br /><br />The lighting at is so bad there's moments you can't even see what's going on, I even tried to playing w...
+True: negative  |  Predicted: negative
+
